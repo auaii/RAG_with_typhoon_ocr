@@ -1,0 +1,31 @@
+# Libraries 
+streamlit 
+python-dotenv
+ipykernel
+langchain
+langchain[groq]
+
+# Huggingface for OCR model 
+transformers 
+torch
+langchain-Huggingface
+datasets
+accelerate
+
+# Use model typhoon ocr from api key 
+typhoon-ocr 
+openai 
+
+# Embedding  
+langchain-community
+chromadb 
+langchain_chroma
+sentence-transformers
+huggingface-hub
+ipywidgets
+
+# Vector store
+faiss-cpu
+
+# Interface 
+gradio 
